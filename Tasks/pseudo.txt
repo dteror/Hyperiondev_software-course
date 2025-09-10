@@ -1,1 +1,37 @@
 
+
+1.
+Set highest_user_input to zero
+Get user_input
+While user_input is not zero:
+       If user_input > highest_user_input:
+           Set higher_user_input =user_inputq
+       Else if user_input = 0
+             Break the loop
+ Print highest_user_input
+
+2. 
+Get user first_name
+    Print user first_name + "hello world"
+3 .
+Set total_numbers entered to 0
+Get the total_numbers from the user
+set sum to 0
+For i in range(total_numbers):
+       Get user_int 
+       sum = sum + user_int
+Set Average to sum / total_numbers
+Print Avarage
+4 .
+Set done to False
+If done is True 
+     Remove item from the list 
+Else: 
+    Print item as incomplete
+5.
+Get x 
+Get y 
+Set S to the sum of x and y
+Set A to S divided by 2
+Set P to the product of x and y
+Print S, A, P
